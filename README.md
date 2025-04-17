@@ -1,16 +1,14 @@
-👋 Hi! My name is Thanabodee
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanabodee
 
----
 
-# Full Stack Developer
-
+## Full Stack Developer
 Full Stack Developer specializing in Web Application development using React and Next.js. Experienced in building and developing E-commerce Web Applications. Driven to create and develop high-quality websites that meet user needs.
 
----
 
 ## Contact
 
 * ✉️ Email: [pong.thanabodee@gmail.com](mailto:pong.thanabodee@gmail.com)
+* 🌍  Based in Bangkok
 
 ## Skills
 
