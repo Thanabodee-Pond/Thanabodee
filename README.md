@@ -58,7 +58,7 @@ A comprehensive e-commerce platform designed as a blueprint for modern, scalable
 
 
 
-### Agora Threads Clone
+### Agora Threads 
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js&style=for-the-badge)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/) [![Clerk](https://img.shields.io/badge/Clerk-Auth-6C47FF?logo=clerk&logoColor=white&style=for-the-badge)](https://clerk.com/)
 
@@ -77,7 +77,7 @@ A full-stack social media application, a clone of Meta's Threads, built to demon
 
 
 
-### Backend Service Foundation
+### Backend-Service-Foundation-NestJS-ORM-JWT
 
 [![NestJS](https://img.shields.io/badge/NestJS-Backend-EA2845?logo=nestjs&style=for-the-badge)](https://nestjs.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-4169E1?logo=postgresql&style=for-the-badge)](https://www.postgresql.org/) [![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=for-the-badge)](https://www.docker.com/) [![AWS](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazon-aws&style=for-the-badge)](https://aws.amazon.com/ec2/)
 
@@ -96,7 +96,7 @@ A production-ready architectural blueprint for building scalable, secure, and ma
 
 
 
-### Web Crypto API Playground
+### Web Crypto API
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Web Crypto API](https://img.shields.io/badge/Web%20Crypto%20API-339933?logo=web-components&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
 
