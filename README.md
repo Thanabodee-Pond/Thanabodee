@@ -12,8 +12,9 @@ I leverage my expertise in **NestJS, PostgreSQL, and Docker** to build high-perf
 * **Frontend:** `React` `Next.js` `HTML5` `CSS3` `Tailwind CSS` `Sass`
 * **Backend:** `Node.js` `NestJS`
 * **Databases & ORMs:** `PostgreSQL` `MySQL` `Sequelize` `Prisma` `Drizzle ORM`
-* **DevOps & Cloud:** `Docker` `AWS (EC2)` `Nginx` `Git`
-* **Design & Tooling:** `Figma` `Vite`
+* **DevOps & Cloud:** `Docker` `AWS (EC2, S3, RDS)` `Nginx` `Git` `GitHub Actions`
+* **Design & Tooling:** `Figma` `Vite` `Postman`
+* **Other:** `Web Crypto API`
 
 ---
 
@@ -29,11 +30,11 @@ I leverage my expertise in **NestJS, PostgreSQL, and Docker** to build high-perf
 ## 📂 Highlighted Projects
 
 ### Advanced Full-Stack E-Commerce Platform
-![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js&style=for-the-badge) ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&style=for-the-badge) ![Drizzle ORM](https://img.shields.io/badge/Drizzle-ORM-C5F74F?logo=drizzle&logoColor=black&style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=for-the-badge) ![AWS](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazon-aws&style=for-the-badge)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js&style=for-the-badge)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/) [![Drizzle ORM](https://img.shields.io/badge/Drizzle-ORM-C5F74F?logo=drizzle&logoColor=black&style=for-the-badge)](https://orm.drizzle.team/) [![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=for-the-badge)](https://www.docker.com/) [![AWS](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazon-aws&style=for-the-badge)](https://aws.amazon.com/ec2/)
 
 A comprehensive e-commerce platform designed as a blueprint for modern, scalable, and type-safe web applications. This project covers the entire development lifecycle, from architectural design to a full deployment pipeline on cloud infrastructure.
 
-🔗 **[GitHub Repository](https://github.com/Thanabodee-Pond/advanced-nextjs-app)** | 🚀 **[Live Demo](https://www.youtube.com/watch?v=-oNUkM48aGQ)**
+🔗 **[GitHub Repository](https://github.com/Thanabodee-Pond/advanced-nextjs-app)** | 🚀 **[Live Demo](https://nextjs-ecom-thanabodee.vercel.app/)**
 
 * **Key Achievements:**
     * Architected a full-stack application using **Next.js 15 (App Router)**, handling everything from SSR and API development to a responsive UI with **React 19**.
@@ -42,9 +43,23 @@ A comprehensive e-commerce platform designed as a blueprint for modern, scalable
     * Developed key features including a secure authentication system, complex forms with **React Hook Form & Zod**, and a **PromptPay QR Code** payment integration.
 
 ---
+### Agora Threads Clone
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js&style=for-the-badge)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/) [![Clerk](https://img.shields.io/badge/Clerk-Auth-6C47FF?logo=clerk&logoColor=white&style=for-the-badge)](https://clerk.com/)
+
+A full-stack social media application, a clone of Meta's Threads, built to demonstrate real-time interaction and robust user management. This project highlights proficiency in modern web development frameworks and authentication solutions.
+
+🔗 **[GitHub Repository](https://github.com/Thanabodee-Pond/agora-threads)** | 🚀 **[Live Demo](https://agora-threads-thanabodee.vercel.app/)**
+
+* **Key Achievements:**
+    * Developed a dynamic social media feed with real-time updates and nested comments using **Next.js 14 (App Router)** and **React**.
+    * Integrated **Clerk for authentication**, providing secure and flexible user sign-up/sign-in options.
+    * Managed data persistence with **MongoDB**, demonstrating efficient NoSQL database interactions.
+    * Implemented features such as user profiles, post creation, and community management.
+
+---
 
 ### Backend Service Foundation
-![NestJS](https://img.shields.io/badge/NestJS-Backend-EA2845?logo=nestjs&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-4169E1?logo=postgresql&style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=for-the-badge) ![AWS](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazon-aws&style=for-the-badge)
+[![NestJS](https://img.shields.io/badge/NestJS-Backend-EA2845?logo=nestjs&style=for-the-badge)](https://nestjs.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-4169E1?logo=postgresql&style=for-the-badge)](https://www.postgresql.org/) [![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=for-the-badge)](https://www.docker.com/) [![AWS](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazon-aws&style=for-the-badge)](https://aws.amazon.com/ec2/)
 
 A production-ready architectural blueprint for building scalable, secure, and maintainable backend services. This project demonstrates a deep understanding of system design, containerization, and automated deployment pipelines.
 
@@ -58,12 +73,43 @@ A production-ready architectural blueprint for building scalable, secure, and ma
 
 ---
 
+### Web Crypto API Playground
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Web Crypto API](https://img.shields.io/badge/Web%20Crypto%20API-339933?logo=web-components&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
+
+An interactive web application designed to explore and demonstrate the capabilities of the Web Crypto API. This project provides practical examples of cryptographic operations directly within the browser, focusing on security and client-side data protection.
+
+🔗 **[GitHub Repository](https://github.com/Thanabodee-Pond/Web-Crypto-API)** | 🚀 **[Live Demo](https://web-crypto-api-thanabodee.vercel.app/)**
+
+* **Key Achievements:**
+    * Implemented various cryptographic functions including **hashing (SHA-256, SHA-512)**, **encryption/decryption (AES-GCM)**, and **key generation (RSA-OAEP)** using the browser's native Web Crypto API.
+    * Developed a user-friendly interface to input data and visualize the output of cryptographic operations.
+    * Showcased secure client-side data handling without reliance on server-side processing for core cryptographic tasks.
+    * Provided clear examples of how to securely generate, store, and use cryptographic keys in a web environment.
+
+---
+
+### MyStore: A Scalable Frontend Architecture for Modern E-commerce
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/) [![Vite](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=FFD62E&style=for-the-badge)](https://vitejs.dev/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)](https://tailwindcss.com/) [![i18next](https://img.shields.io/badge/i18next-2DA44E?logo=i18next&logoColor=white&style=for-the-badge)](https://www.i18next.com/) [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge)](https://www.framer.com/motion/)
+
+This repository contains the source code for MyStore, a feature-rich, fully responsive, and internationalized e-commerce Single-Page Application. While developed as a frontend technical assessment, the project was architected as a proof-of-concept for a scalable and maintainable e-commerce platform, emphasizing modern development patterns and a superior user experience.
+
+🔗 **[GitHub Repository](https://github.com/Thanabodee-Pond/online-store-vite-react)** | 🚀 **[Live Demo](https://online-store-pond.vercel.app/)**
+
+* **Key Achievements:**
+    * Architected a scalable frontend using **React 18** and **TypeScript** with a hybrid state management approach (`Context API` + `useReducer`/`useState`).
+    * Implemented full **internationalization (English-Thai)** with `i18next`, separating UI text from dynamic product data for efficient translation.
+    * Developed a robust multi-step checkout flow including form validation (`React Hook Form`) and a functional **PromptPay QR Code** payment system.
+    * Designed a responsive and interactive UI with **Tailwind CSS** and enhanced user experience with animations using **Framer Motion**.
+    * Encapsulated business logic and data fetching within **custom hooks** for clear separation of concerns and maintainability.
+
+---
+
 ### Full-Stack Travel Blog & CMS
-![Next.js](https://img.shields.io/badge/Next.js-App_Router-black?logo=next.js&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&style=for-the-badge) ![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma&style=for-the-badge) ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-Auth-333?logo=nextdotjs&style=for-the-badge)
+[![Next.js](https://img.shields.io/badge/Next.js-App_Router-black?logo=next.js&style=for-the-badge)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/) [![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma&style=for-the-badge)](https://www.prisma.io/) [![NextAuth.js](https://img.shields.io/badge/NextAuth.js-Auth-333?logo=nextdotjs&style=for-the-badge)](https://next-auth.js.org/)
 
 A dynamic content platform designed for performance, SEO, and an excellent user experience. This full-stack application showcases a modern approach to building content-driven websites with a complete Content Management System (CMS) for administrators.
 
-🔗 **[GitHub Repository](https://github.com/Thanabodee-Pond/Blog-Travel-Next.js)** 
+🔗 **[GitHub Repository](https://github.com/Thanabodee-Pond/Blog-Travel-Next.js)**
 
 * **Key Achievements:**
     * Developed a full-stack application leveraging the **Next.js App Router** for a modern, component-based architecture, optimizing for both **SEO and performance** through Server-Side Rendering (SSR) and Static Site Generation (SSG).
@@ -81,20 +127,20 @@ A dynamic content platform designed for performance, SEO, and an excellent user 
 ## 🔗 Socials
 
 <p align="left">
-  <a href="https://www.github.com/Thanabodee-Pond" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/>
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/thanabodee-pongputhiana" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
-    </picture>
-  </a>
+    <a href="https://www.github.com/Thanabodee-Pond" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/>
+        </picture>
+    </a>
+    <a href="https://www.linkedin.com/in/thanabodee-pongputhiana" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+        </picture>
+    </a>
 </p>
 
 ## 📊 Stats
