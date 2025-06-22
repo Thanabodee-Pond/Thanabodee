@@ -45,7 +45,7 @@ I leverage my expertise in **NestJS, PostgreSQL, and Docker** to build high-perf
 
 A comprehensive e-commerce platform designed as a blueprint for modern, scalable, and type-safe web applications. This project covers the entire development lifecycle, from architectural design to a full deployment pipeline on cloud infrastructure.
 
-🔗 **[GitHub Repository](https://github.com/Thanabodee-Pond/advanced-nextjs-app)** | 🚀 **[Live Demo](https://nextjs-ecom-thanabodee.vercel.app/)**
+🔗 **[GitHub Repository](https://github.com/Thanabodee-Pond/advanced-nextjs-app)** | 🚀 **[Live Demo](https://youtu.be/-oNUkM48aGQ?si=2gcUr1-hRKZ6yRkY)**
 
 * **Key Achievements:**
     * Architected a full-stack application using **Next.js 15 (App Router)**, handling everything from SSR and API development to a responsive UI with **React 19**.
@@ -102,7 +102,7 @@ A production-ready architectural blueprint for building scalable, secure, and ma
 
 An interactive web application designed to explore and demonstrate the capabilities of the Web Crypto API. This project provides practical examples of cryptographic operations directly within the browser, focusing on security and client-side data protection.
 
-🔗 **[GitHub Repository](https://github.com/Thanabodee-Pond/Web-Crypto-API)** | 🚀 **[Live Demo](https://web-crypto-api-thanabodee.vercel.app/)**
+🔗 **[GitHub Repository](https://github.com/Thanabodee-Pond/Web-Crypto-API)** | 🚀 **[Live Demo](https://www.youtube.com/watch?v=5ks-ajdYsJo)**
 
 * **Key Achievements:**
     * Implemented various cryptographic functions including **hashing (SHA-256, SHA-512)**, **encryption/decryption (AES-GCM)**, and **key generation (RSA-OAEP)** using the browser's native Web Crypto API.
